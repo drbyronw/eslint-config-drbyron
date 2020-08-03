@@ -1,7 +1,5 @@
-# No-Sweat™ Eslint and Prettier Setup
-These are my settings for ESLint and Prettier
-
-You might like them - or you might not. Don't worry you can always change them.
+# Eslint and Prettier Setup
+These are my settings for ESLint and Prettier - drbyronw
 
 ## What it does
 * Lints JavaScript based on the latest standards

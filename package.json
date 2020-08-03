@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-drbyron",
-  "version": "0.0.23",
+  "version": "0.0.233",
   "description": "ESLint and Prettier Config from Wes Bos forked by Byron Williams",
   "keywords": [
     "javascript",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.6.0",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-drbyron",
-  "version": "0.0.233",
+  "version": "0.0.24",
   "description": "ESLint and Prettier Config from Wes Bos forked by Byron Williams",
   "keywords": [
     "javascript",
